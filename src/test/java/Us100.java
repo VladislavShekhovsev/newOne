@@ -3,5 +3,6 @@ public class Us100 {
         System.out.println("commit");
         System.out.println("Second commit");
         System.out.println("third commit");
+        System.out.println("Fourth commit");
     }
 }
